@@ -1,0 +1,31 @@
+{
+  "objects": 11234,
+  "distinct_gpu_devices": 8,
+  "distinct_gpu_uuids": 8,
+  "code_hashes_match": true,
+  "metrics_recomputed": {
+    "top1": 0.8807192451486558,
+    "top3": 0.975609756097561,
+    "top5": 0.9904753427096314,
+    "attribute_mAP": 0.13514028999664676,
+    "affordance_mAP": 0.32573111136752697
+  },
+  "constant_score_mAP": {
+    "attribute": 0.08659785985946655,
+    "affordance": 0.27892422676086426
+  },
+  "per_source": {
+    "COCO": {
+      "objects": 10108,
+      "top1": 0.8745548080728136
+    },
+    "ImageNet": {
+      "objects": 361,
+      "top1": 0.9722991689750693
+    },
+    "from_web": {
+      "objects": 765,
+      "top1": 0.918954248366013
+    }
+  }
+}

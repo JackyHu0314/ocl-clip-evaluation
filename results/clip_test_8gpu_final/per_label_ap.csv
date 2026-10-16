@@ -1,0 +1,285 @@
+task,label_index,label,definition,positives,AP
+attribute,0,crumpled,,490,0.03651910364586173
+attribute,1,ceramic,,0,
+attribute,2,cold,,40,0.006818057476264888
+attribute,3,curled,,22,0.004921296934726344
+attribute,4,furry,,2505,0.4649334280205847
+attribute,5,black,,2350,0.21176644461711258
+attribute,6,wet,,1678,0.21429028084826893
+attribute,7,orange,,398,0.036643079173022425
+attribute,8,brown,,1662,0.1456093901184402
+attribute,9,yellow,,1335,0.11225212834358034
+attribute,10,striped,,899,0.738299309304024
+attribute,11,cool,,547,0.0529994264752334
+attribute,12,gray,,2072,0.1922129285542189
+attribute,13,leather,,33,0.00901981636515347
+attribute,14,large,,1629,0.132014689488067
+attribute,15,wooden,,285,0.057204489287682174
+attribute,16,small,,1706,0.12790560209278112
+attribute,17,soft,,2281,0.2863188238506249
+attribute,18,round,,515,0.08918707319591071
+attribute,19,old,,592,0.06881013888412998
+attribute,20,portable,,615,0.04305768827685851
+attribute,21,fluffy,,1543,0.38321314702372605
+attribute,22,hard,,989,0.08550898952747103
+attribute,23,horn,,2,0.0011962323188751038
+attribute,24,messy,,61,0.008124794261638526
+attribute,25,heavy,,1560,0.12229972079941506
+attribute,26,blue,,532,0.04683064118267595
+attribute,27,purple,,18,0.003353888346137284
+attribute,28,closed,,385,0.03681040934359946
+attribute,29,new,,785,0.06813081274998746
+attribute,30,red,,1160,0.10786819370019024
+attribute,31,thin,,378,0.030132852489620433
+attribute,32,full,,186,0.019417517936474483
+attribute,33,vertical,,418,0.031909104268908695
+attribute,34,strong,,785,0.06265085478042202
+attribute,35,dry,,2030,0.15937559770304927
+attribute,36,spotted,,250,0.02328834307921081
+attribute,37,quadruped,,4012,0.8159501934673112
+attribute,38,whole,,1933,0.15540134430358604
+attribute,39,sharp,,380,0.022659750106496436
+attribute,40,long,,501,0.047828218825183386
+attribute,41,fake,,11,0.0015370695088749273
+attribute,42,open,,447,0.034492479897997225
+attribute,43,toy,,19,0.02032778088528916
+attribute,44,plastic,,107,0.009667202320797505
+attribute,45,white,,2037,0.18807012015508268
+attribute,46,columnar,,199,0.029734580698142964
+attribute,47,empty,,232,0.027948558010974893
+attribute,48,flat,,632,0.06410400048881451
+attribute,49,cloth,,70,0.011797981101104287
+attribute,50,warm,,754,0.054790654011820566
+attribute,51,leashed,,254,0.08041969896305642
+attribute,52,solid,,2150,0.18687013161843127
+attribute,53,smooth,,1567,0.13431463459684445
+attribute,54,worn,,2,0.00022706836062939703
+attribute,55,rectangular,,1066,0.14893139834844277
+attribute,56,bipedal,,1,0.0013422818791946308
+attribute,57,tasty,,1725,0.6740430514258842
+attribute,58,curved,,1428,0.1402249519882308
+attribute,59,pink,,97,0.016721407785534527
+attribute,60,hot,,73,0.00610101691624498
+attribute,61,digital,,4,0.0016137136760511006
+attribute,62,electric,,126,0.012265080394341803
+attribute,63,fresh,,1857,0.5553159112555163
+attribute,64,horizontal,,2956,0.27691281361042647
+attribute,65,short,,998,0.07356082895568569
+attribute,66,natural,,1005,0.1010038629342672
+attribute,67,metal,,4644,0.5065507407556933
+attribute,68,cooked,,1034,0.5033007770905267
+attribute,69,green,,878,0.0780184996491221
+attribute,70,folded,,0,
+attribute,71,broken,,50,0.021367111820220393
+attribute,72,bent,,1,0.00022660321776569228
+attribute,73,sliced,,177,0.11532244576622439
+attribute,74,thick,,0,
+attribute,75,wide,,1370,0.1372024034307654
+attribute,76,narrow,,3868,0.4448668284210604
+attribute,77,arched,,153,0.0157486764555108
+attribute,78,puffy,,366,0.06792516342803175
+attribute,79,cream,,0,
+attribute,80,stone,,0,
+attribute,81,cement,,0,
+attribute,82,marble,,0,
+attribute,83,floral,,0,
+attribute,84,glass,,1,0.0016207455429497568
+attribute,85,water,,0,
+attribute,86,rubber,,8,0.0018019820000527277
+attribute,87,brick,,0,
+attribute,88,sandy,,0,
+attribute,89,plaid,,0,
+attribute,90,paper,,2,0.0002647987994481492
+attribute,91,checkered,,3,0.0004482348979858719
+attribute,92,parked,,6118,0.5891140217635578
+attribute,93,moving,,2807,0.36553276860309636
+attribute,94,melted,,0,
+attribute,95,lit,,117,0.01292718571842295
+attribute,96,wearing,,0,
+attribute,97,framed,,1,0.125
+attribute,98,stacked,,310,0.04469815212903217
+attribute,99,tiled,,2752,0.2579172081152118
+attribute,100,standing,,3872,0.34678522912483545
+attribute,101,hanging,,0,
+attribute,102,sitting,,14,0.0009089045454398673
+attribute,103,walking,,913,0.09354725106768061
+attribute,104,sleeping,,2,0.0005092933216728163
+attribute,105,flying,,0,
+attribute,106,dead,,0,
+attribute,107,ripe,,2250,0.7989083950200111
+attribute,108,in the picture,,0,
+attribute,109,reflective,,205,0.02496850555489022
+attribute,110,grassy,,0,
+attribute,111,leafy,,0,
+attribute,112,painted,,78,0.014475721443224733
+attribute,113,rusty,,74,0.018157531048156216
+affordance,0,aim,"point or cause to go (blows, weapons, or objects such as photographic equipment) towards",5388,0.4893158144859043
+affordance,1,assemble,create by putting components or members together,3753,0.4509388389626204
+affordance,2,bend,form a curve,789,0.07738682232342331
+affordance,3,bend,change direction,2080,0.2426026042765912
+affordance,4,blast,fire a shot,4380,0.4145699385053664
+affordance,5,blow,exhale hard,3276,0.2885097888637731
+affordance,6,board,"get on board of (trains, buses, ships, aircraft, etc.)",1452,0.26631585504788663
+affordance,7,break,become separated into pieces or fragments,4596,0.43029084646839016
+affordance,8,brush,"rub with a brush, or as if with a brush",4530,0.342312363644551
+affordance,9,buy,obtain by purchase; acquire by means of a financial transaction,5123,0.46864991128647593
+affordance,10,capture,"capture as if by hunting, snaring, or trapping",2757,0.49289738174086273
+affordance,11,carry,have with oneself; have on one's person,3980,0.3195640706975903
+affordance,12,catch,attract and fix,3903,0.33739818811487005
+affordance,13,catch,take hold of so as to seize or restrain or stop the motion of,3810,0.3527792435212898
+affordance,14,chase,go after with the intent to catch,4153,0.5401467617224894
+affordance,15,check,"examine so as to determine accuracy, quality, or condition",6780,0.5498615186842087
+affordance,16,clean,"make clean by removing dirt, filth, or unwanted substances from",6333,0.5991955672900291
+affordance,17,climb,go upward with gradual or continuous progress,2727,0.1927209165215649
+affordance,18,close,become closed,1448,0.13403212930723962
+affordance,19,collect,gather or collect,1065,0.10629250984967939
+affordance,20,cook,transform and make suitable for consumption by heating,1544,0.5064449035180286
+affordance,21,cut,separate with or as if with an instrument,3718,0.34432496004154195
+affordance,22,decant,pour out,1074,0.12511313581355765
+affordance,23,dilute,lessen the strength or flavor of a solution or mixture,5,0.0008371398420842721
+affordance,24,drag,"pull, as against a resistance",9023,0.8430640505515031
+affordance,25,draw,"bring, take, or pull out of a container or from under a cover",5942,0.5481531970740219
+affordance,26,drink,take in liquids,127,0.011559009116928594
+affordance,27,drive,operate or control a vehicle,4001,0.7622411725552679
+affordance,28,eat,eat a meal; take a meal,2313,0.6600830646914004
+affordance,29,eat,take in solid food,2142,0.4169753495069373
+affordance,30,edit,cut and assemble the components of,3788,0.4119546874806358
+affordance,31,embrace,"squeeze (someone) tightly in your arms, usually with fondness",2682,0.3659611636728032
+affordance,32,exit,move out of or depart from,1964,0.25290353545393174
+affordance,33,feed,give food to,4309,0.6106684075872775
+affordance,34,fly,operate an airplane,81,0.0070338816002805775
+affordance,35,function,perform as expected when applied,4452,0.4169532916997172
+affordance,36,get,"succeed in catching or seizing, especially after a chase",3805,0.4610617366452446
+affordance,37,hit,hit against; come into sudden contact with,9257,0.8058828938945933
+affordance,38,hit,cause to move by striking,6824,0.5420321953788966
+affordance,39,hitch,to hook or entangle,3900,0.36967788384526934
+affordance,40,hold,be the physical support of; carry the weight of,3521,0.25496743504214564
+affordance,41,hold,have or hold in one's hands or grip,6387,0.562051972092859
+affordance,42,hop on,get up on the back of,3746,0.3686269256920994
+affordance,43,ignite,cause to start burning; subject to fire or great heat,278,0.02580157138718082
+affordance,44,inject,give an injection to,2468,0.2363815512062447
+affordance,45,inspect,look over carefully,8963,0.7877372076701257
+affordance,46,install,set up for use,1667,0.1630090445387114
+affordance,47,jab,poke or thrust abruptly,5758,0.5005382112159993
+affordance,48,jump,bypass,3981,0.40788502707014784
+affordance,49,kick,drive or propel with the foot,4869,0.4326209434482946
+affordance,50,kick,thrash about or strike out with the feet,4594,0.38697679657254974
+affordance,51,let go of,"release, as from one's grip",2778,0.2574491432940537
+affordance,52,lie,be located or situated somewhere; occupy a certain position,4846,0.4439544927997692
+affordance,53,lie,"be lying, be prostrate; be in a horizontal position",4012,0.3768036653546367
+affordance,54,lie down,assume a reclining position,3543,0.31019908533724794
+affordance,55,lift,take hold of something and move it to a different location,5447,0.4348354439266996
+affordance,56,load,fill or place a load on,4165,0.44359123615607615
+affordance,57,melt,"reduce or cause to be reduced from a solid to a liquid state, usually by heating",2,0.00018787448165979238
+affordance,58,move,"cause to move or shift into a new position or place, both in a concrete and in an abstract sense",9702,0.8407971117471478
+affordance,59,obstruct,block passage through,3245,0.39835583113249984
+affordance,60,occupy,occupy the whole of,3272,0.2897506926747833
+affordance,61,open,cause to open or to become open,1385,0.11001663689979424
+affordance,62,open,start to operate or function or cause to start operating or functioning,1696,0.22678317755694882
+affordance,63,operate,handle and cause to function,3550,0.48366604956898557
+affordance,64,pack,arrange in a container,3568,0.4098653649616375
+affordance,65,paint,apply paint to; coat with paint,3803,0.40247917263742256
+affordance,66,pare,remove the edges from and cut down to the desired size,761,0.1403412043316815
+affordance,67,photograph,record on photographic film,9325,0.8329277856294557
+affordance,68,pick,look for and gather,2170,0.20403775345766434
+affordance,69,plow,to break and turn over earth especially with a plow,0,
+affordance,70,produce,create or manufacture a man-made product,1834,0.14997217335988935
+affordance,71,pull,apply force so as to cause motion towards the source of the motion,7913,0.6700818558768729
+affordance,72,push,"move with force, ''He pushed the table into a corner''",6988,0.5971782794374086
+affordance,73,push,press against forcefully without moving,7760,0.7128496856862506
+affordance,74,put,put into a certain place or abstract location,4350,0.3511676618908971
+affordance,75,race,compete in a race,3138,0.4303613089588208
+affordance,76,raise,raise from a lower to a higher position,5495,0.42986908057872797
+affordance,77,reach,"reach a destination, either real or abstract",6804,0.648834888098452
+affordance,78,read,interpret something that is written or printed,6,0.0014568417533984148
+affordance,79,rend,tear or be torn violently,899,0.09485828464189669
+affordance,80,repair,restore by replacing a part or putting together what is torn or broken,3032,0.4625009672364684
+affordance,81,ride,"sit and travel on the back of animal, usually while controlling its motions",3199,0.47917929180993535
+affordance,82,ride,be carried or travel on or in a vehicle,3430,0.6839637661509963
+affordance,83,score,gain points in a game,651,0.07636818300509429
+affordance,84,shoot,hit with a missile from a weapon,8353,0.7584085832773488
+affordance,85,shoot,"send forth suddenly, intensely, swiftly",2406,0.21004889127756676
+affordance,86,sign,mark with one's signature; write one's name (on),3186,0.3115404565142903
+affordance,87,sit,"be around, often idly or without specific purpose",3120,0.24451233790351168
+affordance,88,sit,be seated,5718,0.4965089599383745
+affordance,89,slide,move smoothly along a surface,2996,0.2518565457103401
+affordance,90,smoke,"inhale and exhale smoke from cigarettes, cigars, pipes",0,
+affordance,91,spin,revolve quickly and repeatedly around one's own axis,44,0.003098257655741553
+affordance,92,squeeze,press firmly,1520,0.14208866995046993
+affordance,93,stand,hold one's ground; maintain a position; be steadfast or upright,1862,0.1438481262832536
+affordance,94,stand,be standing; be upright,2144,0.1695063170461254
+affordance,95,stand,remain inactive or immobile,3020,0.28169340260723996
+affordance,96,steer,direct the course; determine the direction of travelling,5284,0.57426034699565
+affordance,97,sweep,"move with sweeping, effortless, gliding motions",5476,0.43607905843698147
+affordance,98,swerve,turn sharply; change direction abruptly,2205,0.3398546203921943
+affordance,99,swing,make a big sweeping gesture or movement,8,0.007660152900917655
+affordance,100,switch off,cause to stop operating by disengaging a switch,1234,0.2092729123971843
+affordance,101,throw,propel through the air,1885,0.16704573850065763
+affordance,102,tie,"fasten or secure with a rope, string, or cord",6463,0.6488265086134433
+affordance,103,toast,propose a toast to,219,0.0178044320194901
+affordance,104,touch,perceive via the tactile sense,9847,0.83486225890015
+affordance,105,transport,"move while supporting, either in a vehicle or in one's hands or on one's body",3633,0.3349944550420353
+affordance,106,turn,let (something) fall or spill from a container,902,0.08675351883768484
+affordance,107,turn,cause to move around or rotate,3823,0.43244723251815204
+affordance,108,turn,"change orientation or direction, also in the abstract sense",3466,0.39415469655935764
+affordance,109,unfold,spread out or open from a closed or folded state,518,0.044512183938102266
+affordance,110,walk,use one's feet to advance; advance by steps,2407,0.26785254891133053
+affordance,111,wash,cleanse (one's body) with soap and water,2885,0.2715703599041349
+affordance,112,wash,clean with some chemical process,3338,0.28257251150826074
+affordance,113,work,"shape, form, or improve a material",1535,0.18017589625971836
+affordance,114,write,record data on a computer,43,0.003993343301476566
+affordance,115,write,mark or trace on a surface,3834,0.3656652090668243
+affordance,116,adjust,make correspondent or conformable,1404,0.17347682212919638
+affordance,117,flip,toss with a sharp movement so as to cause to turn over in the air,778,0.09834050546105838
+affordance,118,flush,"rinse, clean, or empty with a liquid",4328,0.40259873716711303
+affordance,119,grind,make a grating or grinding sound by rubbing together,1233,0.15794097500614615
+affordance,120,groom,give a neat appearance to,2381,0.25184199692607184
+affordance,121,herd,to gather and move a group of animals,1285,0.22949364745446957
+affordance,122,hose,water with a hose,3471,0.3258210274455007
+affordance,123,jump,cause to jump or leap,5094,0.5174565680972885
+affordance,124,lasso,catch with a lasso,4299,0.5810693938376283
+affordance,125,launch,to put (a boat or ship) on the water,94,0.028419801531441656
+affordance,126,lick,pass the tongue over,2672,0.22198241804025823
+affordance,127,milk,take milk from female mammals,138,0.052511245963557635
+affordance,128,park,place temporarily,4794,0.48791913676071724
+affordance,129,pay,"give money, usually in exchange for goods or services",1224,0.09894518654990656
+affordance,130,pet,stroke or caress gently,3128,0.7119636113934957
+affordance,131,point,direct into a position for use,382,0.03596057903242833
+affordance,132,row,propel with oars,980,0.316825641938285
+affordance,133,run,cause an animal to move fast,2471,0.48362124527460787
+affordance,134,serve,put the ball into play,9,0.0008297377377989865
+affordance,135,shear,shear the wool from,649,0.16291761914138997
+affordance,136,sip,drink in sips,0,
+affordance,137,smell,inhale the odor of; perceive by the olfactory sense,3449,0.3817851507496052
+affordance,138,stick,pierce or penetrate or puncture with something pointed,4098,0.31865806140959296
+affordance,139,stir,mix or add by stirring,351,0.10851702519815763
+affordance,140,straddle,sit or stand astride of,2818,0.4591097281820611
+affordance,141,text on,send a message,49,0.004224573877467034
+affordance,142,type on,write by means of a keyboard with types,147,0.01410473273442198
+affordance,143,zip,close with a zipper,0,
+affordance,144,swim,,0,
+affordance,145,talk on phone,,0,
+affordance,146,work on computer,,149,0.01335725301477826
+affordance,147,ski,,0,
+affordance,148,surf,,5,0.005504772025172462
+affordance,149,skateboard,,149,0.010342704895782595
+affordance,150,dry,remove the moisture from and make dry,1657,0.19642112641140658
+affordance,151,fly,travel through the air; be airborne,1,0.16666666666666666
+affordance,152,greet,express greetings upon meeting someone,0,
+affordance,153,hunt,pursue for food or sport (as of wild animals),1040,0.19017794777276806
+affordance,154,launch,propel with force,888,0.09889654401562895
+affordance,155,lose,"fail to keep or to maintain; cease to have, either physically or in an abstract sense",1473,0.12766088078682913
+affordance,156,prepare,educate for a future role or function,3098,0.28089369251773044
+affordance,157,rub,scrape or rub as if to relieve itching,1597,0.1859095718918559
+affordance,158,set up,get ready for a particular purpose or event,2826,0.25628894093589155
+affordance,159,snog,"touch with the lips or press the lips (against someone's mouth or other body part) as an expression of love, greeting, etc.",175,0.020189312982069108
+affordance,160,stop,stop from happening or developing,3413,0.3729742309761557
+affordance,161,talk,exchange thoughts; talk with,879,0.10083305481997298
+affordance,162,teach,impart skills or knowledge to,2646,0.26265250567744836
+affordance,163,walk,accompany or escort,1460,0.2725333970536368
+affordance,164,watch,see or watch,10554,0.943107831694374
+affordance,165,watch,look attentively,10553,0.9321445752620643
+affordance,166,wear,have on one's person,0,
+affordance,167,wield,handle effectively,716,0.08517124318022491
+affordance,168,tag,touch a player while he is holding the ball,3814,0.29994967024487973
+affordance,169,wave,signal with the hands or nod,15,0.0012418974844782117
